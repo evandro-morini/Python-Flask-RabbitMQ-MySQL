@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+marshmallow-sqlalchemy
+flask_marshmallow
+marshmallow
+mysqlclient
+pika
